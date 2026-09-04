@@ -5,8 +5,7 @@ Rio de Janeiro · atendimento remoto em todo o Brasil.
 
 Ajudo empresas a serem encontradas, a transformar visita em cliente e a
 tirar o trabalho manual do caminho. Antes da ferramenta, olho o problema
-do negócio — não vendo pacote fechado nem cobro mensalidade de
-plataforma nos sistemas que faço sob medida.
+do negócio.
 
 ## O que eu faço
 
@@ -19,7 +18,7 @@ comercial.
 
 **Automação — reduzir trabalho manual**
 Chatbot de WhatsApp sob medida, agentes de IA, automações e integrações.
-O sistema é seu, sem mensalidade de plataforma.
+O sistema é seu.
 
 ## Stack
 
