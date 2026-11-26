@@ -1,6 +1,6 @@
 # Gustavo Tavares
 
-**Desenvolvedor · Automação e IA aplicada**
+**Desenvolvedor · Automação e IA aplicada**<br>
 Rio de Janeiro · aberto a oportunidades presenciais, híbridas e remotas.
 
 Formado em Análise e Desenvolvimento de Sistemas (Universidade Veiga de
