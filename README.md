@@ -1,44 +1,34 @@
 # Gustavo Tavares
 
-**Marketing digital, programação e inteligência artificial aplicada a empresas.**
-Rio de Janeiro · atendimento remoto em todo o Brasil.
+**Desenvolvedor · Automação e IA aplicada**
+Rio de Janeiro · aberto a oportunidades presenciais, híbridas e remotas.
 
-Ajudo empresas a serem encontradas, a transformar visita em cliente e a
-tirar o trabalho manual do caminho. Antes da ferramenta, olho o problema
-do negócio.
+Formado em Análise e Desenvolvimento de Sistemas (Universidade Veiga de
+Almeida) e técnico em Automação Industrial (SENAI). Construo ferramentas
+que tiram trabalho manual do caminho: aplicativos desktop, sites,
+integrações com APIs e automações com IA.
 
-## O que eu faço
+## Projetos
 
-**Aquisição — ser encontrado**
-Sites, landing pages, SEO, Google Meu Negócio, Google Ads e Meta Ads.
-
-**Conversão — transformar atenção em oportunidade**
-Landing pages feitas pra converter, CRM, funil de vendas, organização
-comercial.
-
-**Automação — reduzir trabalho manual**
-Chatbot de WhatsApp sob medida, agentes de IA, automações e integrações.
-O sistema é seu.
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| **[PRUMO](https://github.com/GF-tavares/prumo-arquitetura)** · [demo](https://gustavotavaresai.com.br/projetos/prumo/) | Site conceitual de arquitetura com abertura em WebGL | Astro, TypeScript, Three.js, GSAP |
+| **[Apex Motors](https://github.com/GF-tavares/apex-motors)** · [demo](https://gustavotavaresai.com.br/projetos/apex-motors/) | Site demonstrativo de concessionária premium | Astro, TypeScript, GSAP |
+| **LumIA Prospect** (código privado) | App desktop que encontra empresas no Google Maps, pontua leads e prepara a abordagem com IA, integrado ao Gmail e ao WhatsApp | Electron, Node.js, API do Claude |
+| **LumIA CRM** (código privado) | CRM desktop com funil de vendas, cadências, clientes, projetos e financeiro | Electron, Node.js |
+| **[gustavotavaresai.com.br](https://gustavotavaresai.com.br)** | Site próprio, estático, com deploy automático | Astro, TypeScript, Three.js, Cloudflare Pages |
+| **Vídeos gerados por código** | Animações e vídeos montados por código, com narração e publicação automatizadas | React (Remotion), Python, API da Meta |
+| **[DISCORDBOT](https://github.com/GF-tavares/DISCORDBOT)** | Bot de Discord com clima em tempo real e áudio | Python, discord.py, aiohttp |
 
 ## Stack
 
-- **Web:** Astro, JavaScript, Node.js, HTML/CSS
-- **Automação e IA:** Python, n8n, agentes de IA (LLM), integrações via API
-- **WhatsApp:** API oficial da Meta (Cloud API), Baileys, Evolution API
-- **Infra e dados:** Netlify, GitHub, Playwright, Google Analytics 4, Search Console
-
-## Alguns trabalhos
-
-- **[gustavotavaresai.com.br](https://gustavotavaresai.com.br)** — site
-  institucional em Astro, estático e otimizado pra busca
-- **Demais Cerimonial** — site, landing page e sistema de confirmação de
-  presença (RSVP) por WhatsApp na API oficial da Meta, com painel
-  próprio, leitura de planilha e webhook
-- **Geovanna Tavares Estética** — site, landing page e conteúdo de redes
+- **Linguagens:** TypeScript, JavaScript, Python, SQL
+- **Front-end e web:** Astro, React, Three.js/WebGL, GSAP, HTML/CSS
+- **Back-end e desktop:** Node.js, Electron, APIs REST
+- **Automação e IA:** API do Claude, agentes de IA, WhatsApp Cloud API (Meta), Playwright
+- **Ferramentas:** Git/GitHub, Cloudflare Pages, Supabase
 
 ## Contato
 
-- Site: **https://gustavotavaresai.com.br**
-- WhatsApp: **+55 21 99759-7950**
-- Instagram: [@gustavo.tavaresai](https://instagram.com/gustavo.tavaresai)
-- Rio de Janeiro – RJ · atendimento remoto em todo o Brasil
+- LinkedIn: [linkedin.com/in/gustavotavaresai](https://www.linkedin.com/in/gustavotavaresai/)
+- Site: [gustavotavaresai.com.br](https://gustavotavaresai.com.br)
